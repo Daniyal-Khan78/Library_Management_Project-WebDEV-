@@ -1,0 +1,77 @@
+[
+  {
+    "model": "library_api.book",
+    "pk": 1,
+    "fields": {
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "isbn": "978-0-13-235088-4",
+      "genre": "Technology",
+      "published_date": "2008-08-01",
+      "description": "A handbook of agile software craftsmanship. Even bad code can function, but if code isn't clean, it can bring a development organization to its knees.",
+      "is_available": true,
+      "borrowed_by": null,
+      "added_by": null
+    }
+  },
+  {
+    "model": "library_api.book",
+    "pk": 2,
+    "fields": {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "isbn": "978-0-7432-7356-5",
+      "genre": "Fiction",
+      "published_date": "1925-04-10",
+      "description": "A classic novel set in the Jazz Age, exploring themes of wealth, love, and the American Dream.",
+      "is_available": true,
+      "borrowed_by": null,
+      "added_by": null
+    }
+  },
+  {
+    "model": "library_api.book",
+    "pk": 3,
+    "fields": {
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "isbn": "978-0-06-231609-7",
+      "genre": "History",
+      "published_date": "2011-01-01",
+      "description": "A groundbreaking narrative of humanity's creation and evolution, exploring how Homo sapiens came to dominate the Earth.",
+      "is_available": true,
+      "borrowed_by": null,
+      "added_by": null
+    }
+  },
+  {
+    "model": "library_api.book",
+    "pk": 4,
+    "fields": {
+      "title": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen",
+      "isbn": "978-0-26-204630-5",
+      "genre": "Technology",
+      "published_date": "2009-07-31",
+      "description": "The quintessential algorithms textbook, covering a broad range of algorithms in depth.",
+      "is_available": true,
+      "borrowed_by": null,
+      "added_by": null
+    }
+  },
+  {
+    "model": "library_api.book",
+    "pk": 5,
+    "fields": {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "isbn": "978-0-73-521129-2",
+      "genre": "Self-Help",
+      "published_date": "2018-10-16",
+      "description": "An easy and proven way to build good habits and break bad ones.",
+      "is_available": true,
+      "borrowed_by": null,
+      "added_by": null
+    }
+  }
+]
