@@ -196,3 +196,16 @@ pip install channels daphne
 ```
 
 Create a `consumers.py` with a `NotificationConsumer`, set up routing, and connect from React with a `WebSocket` object. The current polling approach works well for most library-scale apps.
+
+
+
+- So apparantly you dont push node_module on to github so when i or someone who wants to run this project needs to do the following
+
+- pull the entire project 
+- then run the following commands
+- npm install
+- this will generate the node_module in seconds
+
+- then run 
+- npm start 
+- and it will work
